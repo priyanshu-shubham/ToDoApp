@@ -5,6 +5,6 @@ The user's to-do list is stored in the local storage, so when he refreshes the p
 
 There is the possibility for the user, to clear the list, by clicking the button clear, at the top right corner of our app.
 
-This webapp is live <a href="https://goodgoingtodo.herokuapp.com/index.html" targt="_blank">here</a>.
+This webapp is live <a href="https://goodgoingtodo.herokuapp.com/index.html" target="_blank">here</a> at https://goodgoingtodo.herokuapp.com/index.html .
 
 Made with ❤ by <a href="https://github.com/priyanshu-shubham/">Priyanshu</a>
